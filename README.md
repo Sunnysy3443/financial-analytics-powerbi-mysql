@@ -15,4 +15,4 @@ An end-to-end Business Intelligence solution connecting a local MySQL database t
 * **Interactive Drill-Downs:** Real-time slicers dynamically update top-level KPI cards and trend charts across categories (Software, Hardware, Services).
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Financial_Analytics_Dashboard screenshot.png)
+![Dashboard Preview](Financial_Analytics_Dashboard%20screenshot.png)
